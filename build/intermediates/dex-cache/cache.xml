@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_177e9e008bd29063196becfc435a3e73ef6b04cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c27ed289c017226f0ca7717486094eb97a743804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_4a7f706ec5f88fe6fd5d2b0ac6d3986edadfd5c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_e2750a6c998c792778104f4457620231f519a868\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_425035a36062047fce5b0ce00e9b704dcc7ec192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78081c144896779a2eb7290d4677d4cdc0459528">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e9cb8ef0fa92b89cf32f3f10461f2207f91556b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_befa7244e8954482bf08e91b3fc00c373ef209d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_04ecb086350553ea2c0990bdaaf6e2dea9d5153e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_904a5b2ba8c48fd41a0ab9f07d98915f533f40e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b35c07f49b505907ae3cf8862cdf37bfa320683f">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c1eb3fdcc490a237630976ca215567599aaa7f9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\CHOO\AndroidStudioProjects\Week161105\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_5f67fb907a3b4a0f8fd9fee5a9ea8962be8cc3f2\classes.dex" />
+    </item>
+
+</items>

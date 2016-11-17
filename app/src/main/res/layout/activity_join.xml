@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원가입"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:background="#e28c78"
+        android:id="@+id/textView" />
+    <LinearLayout  android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="ID"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:background="#ffffff" />
+        <EditText
+            android:id="@+id/et_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="INPUT ID" />
+    </LinearLayout>
+
+    <LinearLayout  android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="PASSWORD"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:background="#ffffff" />
+        <EditText
+            android:id="@+id/et_pw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="INPUT Password" />
+    </LinearLayout>
+    <LinearLayout  android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="NAME"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:background="#ffffff" />
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="INPUT NAME" />
+    </LinearLayout>
+    <LinearLayout  android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="EMAIL"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:background="#ffffff" />
+        <EditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="INPUT EMAIL" />
+    </LinearLayout>
+    <LinearLayout  android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="PHONE"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:background="#ffffff" />
+        <EditText
+            android:id="@+id/et_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="INPUT PHONE" />
+    </LinearLayout>
+    <LinearLayout  android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="ADDRESS"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:background="#ffffff" />
+        <EditText
+            android:id="@+id/et_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="INPUT ADDRESS" />
+    </LinearLayout>
+    <LinearLayout  android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <Button
+            android:id="@+id/bt_submit"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="SUBMIT"/>
+        <Button
+            android:id="@+id/bt_cancel"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:text="CANCEL"/>
+    </LinearLayout>
+
+</LinearLayout>
+
+
